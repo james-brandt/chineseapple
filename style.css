@@ -1,0 +1,16 @@
+#p1 {
+    font-size: 30px;
+    position: relative;
+}
+#p2 {
+    position: relative;
+    top: 300px;
+    font-size: 30px;
+    text-align: right;
+}
+#p3 {
+    top: 600px;
+    position: relative;
+    font-size: 30px;
+    text-align: center;
+}
